@@ -1,6 +1,6 @@
 var friendsArray = [
 	{
-		name: 'Kevin',
+		name: 'Jon Snow',
 		photo: 'https://images.app.goo.gl/Q2LmrVC37tFfRmX78',
 		scores: [
 			'1',
@@ -16,7 +16,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Lila',
+		name: 'Ned Stark',
 		photo: 'https://images.app.goo.gl/ZcXc4HW8q4bxczNK6',
 		scores: [
 			'2',
@@ -32,7 +32,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Leah',
+		name: 'Jaime Lannister',
 		photo: 'https://images.app.goo.gl/HNkvXFbdCdUvgiiP9',
 		scores: [
 			'4',
@@ -48,7 +48,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Frank',
+		name: 'Bron',
 		photo: 'https://images.app.goo.gl/h36W7T6r31xNcifM7',
 		scores: [
 			'5',
@@ -64,7 +64,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Chris',
+		name: 'Samwell Tarlley',
 		photo: 'https://images.app.goo.gl/9XqSGe7fK3P65RQn6',
 		scores: [
 			'1',
@@ -80,7 +80,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Joe',
+		name: 'Ramsey Bolton',
 		photo: 'https://images.app.goo.gl/Bohv2S9qZUMufgEb6',
 		scores: [
 			'1',
@@ -96,7 +96,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Alan',
+		name: 'Aria Stark',
 		photo: 'https://images.app.goo.gl/YufmfWtLakZdbkdf6',
 		scores: [
 			'5',
@@ -112,7 +112,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Karen',
+		name: 'White Walker',
 		photo: 'https://images.app.goo.gl/gDZppKZPuxt1udfi6',
 		scores: [
 			'5',
@@ -128,7 +128,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Charles',
+		name: 'Brandon Stark',
 		photo: 'https://images.app.goo.gl/VRV27jrvXdHUJ1yt7',
 		scores: [
 			'5',
@@ -144,7 +144,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elizabeth',
+		name: 'Sansa Stark',
 		photo: 'https://images.app.goo.gl/v8LKX3k6eWrMwitw9',
 		scores: [
 			'1',
