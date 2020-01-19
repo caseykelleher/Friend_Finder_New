@@ -9,7 +9,7 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://damp-thicket-56977.herokuapp.com/).
+*Game Of Thrones Character Match* is deployed to Heroku. Please check it out [here](https://damp-thicket-56977.herokuapp.com/).
 
 ## Installation
 
