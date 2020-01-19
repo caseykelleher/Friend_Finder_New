@@ -1,7 +1,7 @@
 var friendsArray = [
 	{
 		name: 'Jon Snow',
-		photo: 'https://images.app.goo.gl/Q2LmrVC37tFfRmX78',
+		photo: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kit-harington-hair-jon-snow-1569167827.jpg?crop=0.439xw:0.878xh;0.0221xw,0.0306xh&resize=980:*',
 		scores: [
 			'1',
 			'5',
@@ -17,7 +17,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ned Stark',
-		photo: 'https://images.app.goo.gl/ZcXc4HW8q4bxczNK6',
+		photo: 'https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ned_Stark-Sean_Bean.jpg/220px-Ned_Stark-Sean_Bean.jpg',
 		scores: [
 			'2',
 			'4',
@@ -33,7 +33,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Jaime Lannister',
-		photo: 'https://images.app.goo.gl/HNkvXFbdCdUvgiiP9',
+		photo: 'https://i.redd.it/6nczgm84q3s21.jpg',
 		scores: [
 			'4',
 			'3',
@@ -48,8 +48,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Bron',
-		photo: 'https://images.app.goo.gl/h36W7T6r31xNcifM7',
+		name: 'Daenerys Targaryen',
+		photo: 'https://theartofgrowthandofeverything.files.wordpress.com/2018/06/daenerys-targaryen6.jpg?w=540',
 		scores: [
 			'5',
 			'1',
@@ -64,8 +64,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Samwell Tarlley',
-		photo: 'https://images.app.goo.gl/9XqSGe7fK3P65RQn6',
+		name: 'Arya Stark',
+		photo: 'https://s3.r29static.com/bin/entry/74a/720x1009,85/2171313/image.webp',
 		scores: [
 			'1',
 			'1',
@@ -80,8 +80,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Ramsey Bolton',
-		photo: 'https://images.app.goo.gl/Bohv2S9qZUMufgEb6',
+		name: 'Khal Drogo',
+		photo: 'https://assets.change.org/photos/9/kk/va/mZkkVaCtHfYSMrl-800x450-noPad.jpg?1555287328',
 		scores: [
 			'1',
 			'1',
@@ -96,8 +96,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Aria Stark',
-		photo: 'https://images.app.goo.gl/YufmfWtLakZdbkdf6',
+		name: 'Robert Baratheon',
+		photo: 'https://vignette.wikia.nocookie.net/villains/images/5/5b/Robert_Baratheon-TV_series.jpg/revision/latest?cb=20160624171709',
 		scores: [
 			'5',
 			'4',
@@ -112,8 +112,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'White Walker',
-		photo: 'https://images.app.goo.gl/gDZppKZPuxt1udfi6',
+		name: 'Tyrion Lannister',
+		photo: 'https://i.pinimg.com/474x/11/29/8c/11298cfcec7da54d465cbc1b6165ba40.jpg',
 		scores: [
 			'5',
 			'2',
@@ -128,8 +128,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Brandon Stark',
-		photo: 'https://images.app.goo.gl/VRV27jrvXdHUJ1yt7',
+		name: 'Theon Greyjoy',
+		photo: 'https://pbs.twimg.com/profile_images/1817578207/theontwit_400x400.jpg',
 		scores: [
 			'5',
 			'5',
@@ -144,8 +144,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Sansa Stark',
-		photo: 'https://images.app.goo.gl/v8LKX3k6eWrMwitw9',
+		name: 'Samwell Tarly',
+		photo: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/john-bradley-1558391237.png?crop=0.502xw:1.00xh;0.0170xw,0&resize=480:*',
 		scores: [
 			'1',
 			'1',
